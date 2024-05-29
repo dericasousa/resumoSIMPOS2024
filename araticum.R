@@ -3,8 +3,6 @@
 
 getwd()
 setwd("D:/")  
-#setwd('E:/relatorio')
-#setwd("~/dropbox_local/derica")
 
 # 1.1. Pacotes
 require(gridExtra)
